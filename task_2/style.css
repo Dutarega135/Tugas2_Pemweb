@@ -1,0 +1,28 @@
+body{
+    background-color: yellow;
+}
+
+.store{
+    
+    margin: auto;
+    padding-top: 5%;
+}
+
+.input{width: 90%;
+    margin: 2rem;
+    height: 40px;
+
+}
+
+form{
+    background-color: rgb(63, 205, 117);
+    margin: 1% auto;
+    max-width: 800px;
+    padding: 2rem;
+    border: 1px solid rgb(31, 6, 176);
+    box-shadow: 5px 10px rgb(8, 227, 27);
+}
+
+.label{
+    font-weight: bold;
+}
